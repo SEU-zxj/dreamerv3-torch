@@ -1,6 +1,6 @@
 defaults:
 
-  logdir: null
+  logdir: /home/tsinghuaair/zhengxj/projects/dreamerv3-torch/log
   traindir: null
   evaldir: null
   offline_traindir: ''
